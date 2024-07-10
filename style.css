@@ -147,10 +147,7 @@ ul li span:hover{
     font-weight: 500;
     color: #002765;
     margin-top: 20px;
-    text-align: center;
-    justify-content: end;
-    align-items: end ;
-    margin: 0 100px;
+    margin: 0 auto;
    border-color: #002765;
    font-weight: bold;
     
